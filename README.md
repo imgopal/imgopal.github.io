@@ -1,5 +1,4 @@
-# Nilanjan Paul
-Software Engineering Professional 🚀
+# Nilanjan Paul 🚀 Software Engineering Professional 
 
 📍 123 Main Street – New Delhi – India  | 📞 +91 (your phone number)  
 📧 nilanjan.paul@email.com  | 🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
