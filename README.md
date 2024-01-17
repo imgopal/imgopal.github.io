@@ -1,43 +1,58 @@
-# Nilanjan Paul
-
+# 🚀 Nilanjan Paul
 ## Software Engineering Professional
+📍 123 Main Street – New Delhi – India  
+📞 +91 (your phone number)  
+📧 nilanjan.paul@email.com  
+🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
 
-### Contact Information
+---
 
-* 123 Main Street – New Delhi – India 
-* +91 (your phone number)
-* nilanjan.paul@email.com 
-* [LinkedIn Profile](www.linkedin.com/in/nilanjanpaul)
+## 🎓 Education
+**PQR University**  
+*New Delhi, India*  
+*2018–2022*  
+*Bachelor of Technology, CGPA – 8.0*  
 
-## Education
+---
 
-* **PQR University**, New Delhi, India
-    * Bachelor of Technology (CGPA – 8.0)
-    * 2018–2022
+## 💼 Experience
+**Software Engineering Intern**  
+*MNO Limited*  
+*Gurugram, India*  
+*2022–Present*  
+- Worked on various software engineering projects, including:
+  - Front-end development using React.js
+  - Database management and optimization
+  - Collaborated with cross-functional teams for project delivery
 
-## Professional Experience
+---
 
-* **Software Engineering Intern** at MNO Limited, Gurugram, India
-    * 2022–Present
-    * Responsibilities:
-        * Front-end development using React.js 
-        * Database management and optimization 
-        * Collaboration with cross-functional teams for project delivery 
+## 🚀 Skills
+- **Programming:** Java, Python, C++
+- **Web Development:** HTML/CSS, JavaScript, React.js
+- **Database:** SQL, MongoDB
+- **Version Control:** Git
+- **Operating Systems:** Windows, Linux
+- **Languages:** English, Hindi
 
-## Technical Skills
+---
 
-* Programming: Java, Python, C++
-* Web Development: HTML/CSS, JavaScript, React.js
-* Databases: SQL, MongoDB
-* Version Control: Git
-* Operating Systems: Windows, Linux
-* Languages: English, Hindi 
+## 🛠️ Projects
+1. **E-commerce Website:**  
+   Developed a responsive e-commerce website using React.js and integrated it with a backend server.
 
-## Projects
+2. **Data Management System:**  
+   Designed and implemented a database management system for a client to efficiently store and retrieve data.
 
-* **E-commerce Website:** Developed a responsive e-commerce website using React.js and integrated it with a backend server. 
-* **Data Management System:** Designed and implemented a database management system for efficient data storage and retrieval. 
-* **Algorithm Visualization:** Developed an interactive web application to visualize sorting algorithms using JavaScript and HTML5 Canvas. 
+3. **Algorithm Visualization:**  
+   Developed an interactive web application to visualize sorting algorithms using JavaScript and HTML5 Canvas.
+
+---
+
+## 🌐 Interests
+- [Add your interests here]
+
+
 
 ---
 
