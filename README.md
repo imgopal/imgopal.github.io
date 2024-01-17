@@ -1,3 +1,47 @@
+# Nilanjan Paul
+
+## Software Engineering Professional
+
+### Contact Information
+
+* 123 Main Street – New Delhi – India 
+* +91 (your phone number)
+* nilanjan.paul@email.com 
+* [LinkedIn Profile](www.linkedin.com/in/nilanjanpaul)
+
+## Education
+
+* **PQR University**, New Delhi, India
+    * Bachelor of Technology (CGPA – 8.0)
+    * 2018–2022
+
+## Professional Experience
+
+* **Software Engineering Intern** at MNO Limited, Gurugram, India
+    * 2022–Present
+    * Responsibilities:
+        * Front-end development using React.js 
+        * Database management and optimization 
+        * Collaboration with cross-functional teams for project delivery 
+
+## Technical Skills
+
+* Programming: Java, Python, C++
+* Web Development: HTML/CSS, JavaScript, React.js
+* Databases: SQL, MongoDB
+* Version Control: Git
+* Operating Systems: Windows, Linux
+* Languages: English, Hindi 
+
+## Projects
+
+* **E-commerce Website:** Developed a responsive e-commerce website using React.js and integrated it with a backend server. 
+* **Data Management System:** Designed and implemented a database management system for efficient data storage and retrieval. 
+* **Algorithm Visualization:** Developed an interactive web application to visualize sorting algorithms using JavaScript and HTML5 Canvas. 
+
+---
+
+
 # Gopal Sharma
 
 📍 Gurugram, India | 📅 31 years old
