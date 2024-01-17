@@ -1,9 +1,9 @@
 # Nilanjan Paul 🚀
 
 ### Software Engineering Professional 
-📍 Gurugram, India | 📅 31 years old
-📞 +91 (your phone number)  
-📧 nilanjan.paul@email.com
+📍 Gurugram, India | 📅 31 years old |
+📞 +91 (your phone number) |
+📧 nilanjan.paul@email.com |
 🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
 
 
