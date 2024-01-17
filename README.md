@@ -5,7 +5,6 @@
 📍 123 Main Street – New Delhi – India  | 📞 +91 (your phone number)  
 📧 nilanjan.paul@email.com  | 🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
 
----
 # About Me 🚀
 
 I am Nilanjan Paul, a passionate and results-driven Software Engineering Professional based in New Delhi, India. 🌍 Currently pursuing a Bachelor of Technology at PQR University, I have maintained a CGPA of 8.0. As a Software Engineering Intern at MNO Limited in Gurugram, India, since 2022, I have actively contributed to diverse software engineering projects.
