@@ -1,3 +1,11 @@
+# 🚀 Nilanjan Paul
+
+## Software Engineering Professional
+
+📍 123 Main Street – New Delhi – India  | 📞 +91 (your phone number)  
+📧 nilanjan.paul@email.com  | 🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
+
+---
 # About Me 🚀
 
 I am Nilanjan Paul, a passionate and results-driven Software Engineering Professional based in New Delhi, India. 🌍 Currently pursuing a Bachelor of Technology at PQR University, I have maintained a CGPA of 8.0. As a Software Engineering Intern at MNO Limited in Gurugram, India, since 2022, I have actively contributed to diverse software engineering projects.
@@ -27,145 +35,6 @@ Created an interactive web application for visualizing sorting algorithms using 
 # Others 🌟
 
 In addition to my technical skills, I am passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new domains. 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/nilanjanpaul) to discuss exciting opportunities or collaborate on innovative projects. Let's code a better future together! 🚀
-
-
----
-
-# 🚀 Nilanjan Paul
-
-## Software Engineering Professional
-
-📍 123 Main Street – New Delhi – India  | 📞 +91 (your phone number)  
-📧 nilanjan.paul@email.com  | 🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
-
----
-
-## 🎓 Education
-
-**PQR University**  
-*New Delhi, India*  
-*2018–2022*  
-*Bachelor of Technology, CGPA – 8.0*  
-
----
-
-## 💼 Experience
-
-**Software Engineering Intern**  
-*MNO Limited*  
-*Gurugram, India*  
-*2022–Present*  
-
-- Worked on various software engineering projects, including:
-  - Front-end development using React.js
-  - Database management and optimization
-  - Collaborated with cross-functional teams for project delivery
-
----
-
-## 🚀 Skills
-
-**Programming:**
-- Java
-- Python
-- C++
-
-**Web Development:**
-- HTML/CSS
-- JavaScript
-- React.js
-
-**Database:**
-- SQL
-- MongoDB
-
-**Version Control:**
-- Git
-
-**Operating Systems:**
-- Windows
-- Linux
-
-**Languages:**
-- English
-- Hindi
-
----
-
-## 🛠️ Projects
-
-1. **E-commerce Website:**
-   Developed a responsive e-commerce website using React.js and integrated it with a backend server.
-
-2. **Data Management System:**
-   Designed and implemented a database management system for a client to efficiently store and retrieve data.
-
-3. **Algorithm Visualization:**
-   Developed an interactive web application to visualize sorting algorithms using JavaScript and HTML5 Canvas.
-
----
-
-## 🌐 Interests
-
-- [Add your interests here]
-
-
-
----
-# 🚀 Nilanjan Paul
-## Software Engineering Professional
-📍 123 Main Street – New Delhi – India  
-📞 +91 (your phone number)  
-📧 nilanjan.paul@email.com  
-🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
-
----
-
-## 🎓 Education
-**PQR University**  
-*New Delhi, India*  
-*2018–2022*  
-*Bachelor of Technology, CGPA – 8.0*  
-
----
-
-## 💼 Experience
-**Software Engineering Intern**  
-*MNO Limited*  
-*Gurugram, India*  
-*2022–Present*  
-- Worked on various software engineering projects, including:
-  - Front-end development using React.js
-  - Database management and optimization
-  - Collaborated with cross-functional teams for project delivery
-
----
-
-## 🚀 Skills
-- **Programming:** Java, Python, C++
-- **Web Development:** HTML/CSS, JavaScript, React.js
-- **Database:** SQL, MongoDB
-- **Version Control:** Git
-- **Operating Systems:** Windows, Linux
-- **Languages:** English, Hindi
-
----
-
-## 🛠️ Projects
-1. **E-commerce Website:**  
-   Developed a responsive e-commerce website using React.js and integrated it with a backend server.
-
-2. **Data Management System:**  
-   Designed and implemented a database management system for a client to efficiently store and retrieve data.
-
-3. **Algorithm Visualization:**  
-   Developed an interactive web application to visualize sorting algorithms using JavaScript and HTML5 Canvas.
-
----
-
-## 🌐 Interests
-- [Add your interests here]
-
 
 
 ---
