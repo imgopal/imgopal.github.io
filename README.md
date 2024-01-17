@@ -1,7 +1,10 @@
-# Nilanjan Paul 🚀 Software Engineering Professional 
+# Nilanjan Paul 🚀
 
-📍 123 Main Street – New Delhi – India  | 📞 +91 (your phone number)  
-📧 nilanjan.paul@email.com  | 🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
+### Software Engineering Professional 
+📍 Gurugram, India | 📅 31 years old
+📞 +91 (your phone number)  
+📧 nilanjan.paul@email.com
+🌐 [LinkedIn](www.linkedin.com/in/nilanjanpaul)
 
 
 ## About Me 🚀
@@ -34,13 +37,16 @@ Created an interactive web application for visualizing sorting algorithms using 
 
 In addition to my technical skills, I am passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new domains. 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/nilanjanpaul) to discuss exciting opportunities or collaborate on innovative projects. Let's code a better future together! 🚀
 
+## Contact 📞
+
+- 📧 Email: [your.email@example.com]
+- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ---
 
 
 # Gopal Sharma
 
-📍 Gurugram, India | 📅 31 years old
 
 ## About Me
 
@@ -80,7 +86,3 @@ Here are some of my noteworthy projects that showcase my skills and expertise in
 - **Database:** SQL
 - **Tools:** Jupyter, Git
 
-## Contact
-
-- 📧 Email: [your.email@example.com]
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
